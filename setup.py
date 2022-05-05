@@ -24,7 +24,7 @@ setup(
     long_description_content_type="text/markdown",
     author="ReeceTech",
     author_email="panargirakis@gmail.com",
-    url="https://github.com/reecetech/pactman",
+    url="https://github.com/panargirakis/pactman",
     entry_points={
         "pytest11": ["pactman-verifier=pactman.verifier.pytest_plugin"],
         "console_scripts": ["pactman-verifier=pactman.verifier.command_line:main"],
