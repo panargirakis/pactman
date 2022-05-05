@@ -22,7 +22,7 @@ setup(
     ),
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="ReeceTech",
+    author="Panos Argyrakis",
     author_email="panargirakis@gmail.com",
     url="https://github.com/panargirakis/pactman",
     entry_points={
