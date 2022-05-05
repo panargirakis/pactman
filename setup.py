@@ -23,7 +23,7 @@ setup(
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="ReeceTech",
-    author_email=["richard.jones@reece.com.au", "panargirakis@gmail.com"],
+    author_email="panargirakis@gmail.com",
     url="https://github.com/reecetech/pactman",
     entry_points={
         "pytest11": ["pactman-verifier=pactman.verifier.pytest_plugin"],
